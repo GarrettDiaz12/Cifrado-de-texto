@@ -19,13 +19,13 @@ import java.io.File;
 import java.io.FileWriter;
 
 # Construido con:
-1- Boton para abrir el archivo:
+- Boton para abrir el archivo:
 Se ingresa el nombre del archivo para después accionar el botón de abrir y se muestre en el
 JTextAre el contenido del archivo en la misma ventana).
-2- Se implemento un textArea para que el usuario ingrese el texto para el cifrado o descifrado
-3- Botón de guardar que accionara la tarea de guardar la el texto en un archivo).
-5- Botón de Encriptar que accionara el método que encriptara el texto).
-5- Botón de Desencriptar que accionara el método de desencriptar el texto ).
+- Se implemento un textArea para que el usuario ingrese el texto para el cifrado o descifrado
+- Botón de guardar que accionara la tarea de guardar la el texto en un archivo).
+- Botón de Encriptar que accionara el método que encriptara el texto).
+- Botón de Desencriptar que accionara el método de desencriptar el texto ).
 # Agradecimientos
 Compañeros:
 - Leonel Aguirre.
