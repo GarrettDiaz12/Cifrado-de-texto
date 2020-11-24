@@ -8,8 +8,8 @@ el texto que se desea encriptar o desencriptar y 4 botones los cuales tendrán l
 de abrir, guardar, encriptar y desencripta.
 
 # Pre-requisitos 
--Un de java en este cso (IDE. NetBeans 8.2) 
--Librerías como:
+- Un de java en este cso (IDE. NetBeans 8.2) 
+- Librerías como:
 import java.io.BufferedReader;            
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -37,7 +37,7 @@ Agradezco por orientarme en las dudas que iban surgiendo sobre el desarrollo del
 - abcABC1
 - vxpdylY .ph
 - vv.xwfxo.fd
-**Cadenas resultantes** 
+# Cadenas resultantes
 - 3# rvzgV
 - 1FECedc
 - ks. \n{frzx
