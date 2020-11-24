@@ -10,19 +10,19 @@ de abrir, guardar, encriptar y desencripta.
 # Pre-requisitos 
 - Un de java en este cso (IDE. NetBeans 8.2) 
 - Librerías como:
-*import java.io.BufferedReader;   
+   *import java.io.BufferedReader;   
 
-*import java.io.FileNotFoundException;
+   *import java.io.FileNotFoundException;
 
-*import java.io.FileReader;
+   *import java.io.FileReader;
 
-*import java.io.IOException;
+   *import java.io.IOException;
 
-*import java.io.BufferedWriter;
+   *import java.io.BufferedWriter;
 
-*import java.io.File;
+   *import java.io.File;
 
-*import java.io.FileWriter;
+   *import java.io.FileWriter;
 
 # Construido con:
 - Boton para abrir el archivo:
