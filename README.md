@@ -27,11 +27,11 @@ de abrir, guardar, encriptar y desencripta.
 # Construido con:
 - Boton para abrir el archivo:
 Se ingresa el nombre del archivo para después accionar el botón de abrir y se muestre en el
-JTextAre el contenido del archivo en la misma ventana).
+JTextAre el contenido del archivo en la misma ventana.
 - Se implemento un textArea para que el usuario ingrese el texto para el cifrado o descifrado
-- Botón de guardar que accionara la tarea de guardar la el texto en un archivo).
-- Botón de Encriptar que accionara el método que encriptara el texto).
-- Botón de Desencriptar que accionara el método de desencriptar el texto ).
+- Botón de guardar que accionara la tarea de guardar la el texto en un archivo.
+- Botón de Encriptar que accionara el método que encriptara el texto.
+- Botón de Desencriptar que accionara el método de desencriptar el texto .
 # Agradecimientos
 Compañeros:
 - Leonel Aguirre.
