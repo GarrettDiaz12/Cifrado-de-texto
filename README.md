@@ -8,7 +8,7 @@ el texto que se desea encriptar o desencriptar y 4 botones los cuales tendrán l
 de abrir, guardar, encriptar y desencripta.
 
 # Pre-requisitos 
-- Un de java en este cso (IDE. NetBeans 8.2) 
+- Un de java en este caso (IDE. NetBeans 8.2) 
 - Librerías como:
    *import java.io.BufferedReader;   
 
